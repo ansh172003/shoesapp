@@ -32,7 +32,7 @@ To install and run the app on your local machine, follow these steps:
 To see a live demo of the app, you can visit the hosted website: [Sneakers Shopping App](https://sneaker-app-863ff.web.app/).
 
 ## Download APK
-You can download the APK file of the app from the following link: [Sneakers Shopping App APK](https://drive.google.com/file/d/1XhQELWcO4n5YzlfRCT6CVnzN0Nc6ppbQ/view?usp=sharing).
+You can download the APK file of the app from the following link: [Sneakers Shopping App APK](https://drive.google.com/file/d/1WYCtZoZfK9sDu-xw9m1xpKC320U3E_4n/view?usp=sharing).
 
 ## Repository
 Link to the GitHub repository: [Sneakers Shopping App Repository](https://github.com/ansh172003/shoesapp)
