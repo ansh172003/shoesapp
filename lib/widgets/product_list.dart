@@ -150,7 +150,7 @@ class _ProductListState extends State<ProductList> {
 }
 
 _launchURLGDrive() async {
-  const url = 'https://bit.ly/shoesappapkansh';
+  const url = 'https://bit.ly/shoesappansh';
   if (await canLaunchUrl(Uri.parse(url))) {
     await launchUrl(Uri.parse(url));
   } else {
